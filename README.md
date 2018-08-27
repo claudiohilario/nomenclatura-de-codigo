@@ -4,5 +4,5 @@ Nos dias de hoje por vezes deparamo-nos com alguma dificuldade em definir nomes 
 
 ## Organização do conteúdo (em desenvolvimento)
 
-## Fase 1 (Em desenvolvimento)
+## Fase 1 - Investigação (Em desenvolvimento)
 Esta secção tem como finalidade a investigação de terminologias em repositórios open-source, a fim de reunir um conjunto base de nomes/estruturas de código
